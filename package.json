@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/fchristle/winston-gelf#readme",
   "dependencies": {
-    "gelf-pro": "^1.2.2"
+    "gelf-pro": "^1.4.0"
   },
   "devDependencies": {
     "eslint": "^5.9.0",

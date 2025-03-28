@@ -7,7 +7,7 @@ const levels = {
   crit: 'critical',
   error: 'error',
   warn: 'warn',
-  warning: 'warn',
+  warning: 'warning',
   notice: 'notice',
   info: 'info',
   debug: 'debug',
